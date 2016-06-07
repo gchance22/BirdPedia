@@ -3,4 +3,7 @@
 
 Random: http://birdpedia.herokuapp.com
 
-Search: http://birdpedia.herokuapp.com/search.php?name=search_word
+Search:
+http://birdpedia.herokuapp.com/search.php?name=eagle (Eagle)
+http://birdpedia.herokuapp.com/search.php?name=owl (Owl)
+http://birdpedia.herokuapp.com/search.php?name=swift (Swift)
