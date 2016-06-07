@@ -1,5 +1,5 @@
 # BirdPedia
-Discover random birds or search by name!
+#####Discover random birds or search by name!
 
 Random: http://birdpedia.herokuapp.com
 
